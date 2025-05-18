@@ -24,7 +24,7 @@ git clone (https://github.com/nanditasingh12/Sentiment-Analysis-Using-reviews-.g
 
 2. Set Up a Virtual Environment and activate the environment (Optional but Recommended) 
 python -m venv env
-# On Windows: env\Scripts\activate
+On Windows: env\Scripts\activate
 3. Install Required Packages
 
 
