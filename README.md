@@ -11,7 +11,6 @@ Content: Contains text reviews of musical instruments from online platforms.
 Python
 
 **Jupyter Notebook
-
 Libraries:**
 pandas for data handling
 nltk for text preprocessing
@@ -27,6 +26,8 @@ git clone (https://github.com/nanditasingh12/Sentiment-Analysis-Using-reviews-.g
 python -m venv env
 # On Windows: env\Scripts\activate
 3. Install Required Packages
+
+
 ![image](https://github.com/user-attachments/assets/4faa21cd-73d7-4a13-9eee-a7d98a29850f)
 
 ![image](https://github.com/user-attachments/assets/800a3565-55ca-4498-bcea-4044bc0cb2e7)
@@ -92,7 +93,10 @@ The models are compared based on performance metrics. Logistic Regression and SV
 
 
 📎 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/6bf5b387-d42c-4972-b8f4-24f764af5b97)
+
 
 **Conclusion:**
 
